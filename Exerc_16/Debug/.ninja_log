@@ -1,0 +1,15 @@
+# ninja log v5
+1	786	6486779708920945	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Obj/asm.o	d423ae76983f7109
+795	1337	6486779714320386	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Exe/Exerc_16.out	5a24cc4a354a3701
+4	45	6486786239260922	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Obj/asm.o	d423ae76983f7109
+54	145	6486786240160830	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Exe/Exerc_16.out	5a24cc4a354a3701
+2	53	6486786941125709	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Obj/asm.o	d423ae76983f7109
+60	142	6486786941925638	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Exe/Exerc_16.out	5a24cc4a354a3701
+2	35	6486788051979430	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Obj/asm.o	d423ae76983f7109
+44	131	6486788052779340	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Exe/Exerc_16.out	5a24cc4a354a3701
+3	44	6486790578655448	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Obj/asm.o	d423ae76983f7109
+54	140	6486790579555377	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Exe/Exerc_16.out	5a24cc4a354a3701
+3	552	6486816224302813	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Obj/src/asm.o	b705589c8bb69ea2
+3	552	6486816224302813	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Obj/asm.o	b705589c8bb69ea2
+3	54	6486816443338742	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Obj/src/asm.o	71d5b3883d884609
+64	164	6486816444338628	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_16/Debug/Exe/Exerc_16.out	4f417e615032941c

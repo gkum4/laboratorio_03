@@ -1,0 +1,10 @@
+# ninja log v5
+2	118	6486798564115650	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Obj/src/asm.o	d5df06e19a6199f0
+1	35	6486800364553672	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Obj/src/GPIO_clock_enable.o	9207dc1426f158cc
+44	169	6486800365753523	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Exe/Exerc_17.out	edcff004f233d129
+13	66	6486809859124804	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Obj/src/GPIO_write_leds.o	c3af445bf82c2ae2
+120	207	6486818516837306	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Obj/src/GPIO_enable_digital_output.o	d04ef3dcfd65be1e
+20	63	6486818744031269	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Obj/src/Delay_R0.o	bd7be50ff3f55ac9
+3	80	6486818744031269	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Obj/src/Delay_R3.o	e8ca4d1afcc23403
+2	39	6486818894310656	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Obj/src/asm.o	d5df06e19a6199f0
+49	207	6486818895910487	C:/Users/gusta/Documents/UTFPR/Sistemas Microcontrolados/TM4C1294_SM_IAR9-main/Projects/Exerc_17/Debug/Exe/Exerc_17.out	5d58430cf102bf44

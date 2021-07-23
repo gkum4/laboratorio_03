@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>2830944470</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$PROJ_DIR$\asm.s</file>
+            <file>$PROJ_DIR$\..\Exerc_16\asm.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\Delay_R0.o.rsp</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\Delay_R0.o</file>
+            <file>$PROJ_DIR$\GPIO_enable_digital_output.s</file>
+            <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\TM4C1294NC.icf</file>
+            <file>$PROJ_DIR$\Debug\List\Exerc_17.map</file>
+            <file>$PROJ_DIR$\Debug\Exe\Exerc_17.out</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\GPIO_clock_enable.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\asm.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\asm.o.rsp</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\GPIO_clock_enable.o.rsp</file>
+            <file>$PROJ_DIR$\GPIO_write_leds.s</file>
+            <file>$PROJ_DIR$\GPIO_clock_enable.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\GPIO_write_leds.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\GPIO_write_leds.o.rsp</file>
+            <file>$PROJ_DIR$\Delay_R3.s</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\GPIO_enable_digital_output.o.rsp</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\Delay_R3.o.rsp</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\GPIO_enable_digital_output.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\src\Delay_R3.o</file>
+            <file>$PROJ_DIR$\Delay_R0.s</file>
+        </outputs>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 7 6</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\asm.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 9</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 10</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\GPIO_enable_digital_output.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 19</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 17</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\Exerc_17.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 6</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 5 3 20 8 19 14 9</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\GPIO_write_leds.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 14</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\GPIO_clock_enable.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 8</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 11</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Delay_R3.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 20</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 18</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Delay_R0.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 3</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 2</file>
+                </tool>
+            </inputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+        <forcedrebuild>
+            <name>[REBUILD_ALL]</name>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
